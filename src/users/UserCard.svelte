@@ -1,8 +1,6 @@
 
 <script lang="ts">
-import type { UserType } from "./utils/types";
-
-
+  import type { UserType } from "./utils/types";
   export let user: UserType = undefined;
 </script>
 
